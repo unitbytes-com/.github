@@ -42,7 +42,7 @@ All UnitBytes extraction engines are autonomous, tested against modern anti-bot 
 ## 🛡️ Core Engineering Advantages
 
 - **Zero-Cookie Anonymous Guarantee:** Never risk account bans or credential leakage. Our engines operate 100% anonymously without login cookies.
-- **WAF & Anti-Bot Resilience:** Reverse-engineered cryptographic RPC signatures (HMAC-MD5, x-s, x-t) and TLS JA4 fingerprint impersonation (`curl_cffi`).
+- **WAF & Anti-Bot Resilience:** Autonomous cryptographic request signing, browser-grade TLS JA4 fingerprint impersonation, and adaptive session orchestration to bypass enterprise security layers seamlessly.
 - **Sub-Second Fast-Path (0.05s Startup):** Cross-run session caching eliminates browser launch overhead, starting extractions in milliseconds.
 - **Hotlink-Free Media CDNs:** Image and video URLs are normalized to permanent static storage CDNs, bypassing expiring token signatures and eliminating 403 Forbidden errors.
 
