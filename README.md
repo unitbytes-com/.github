@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/unitbytes-logo.png" width="120" height="120" alt="UnitBytes Logo" style="border-radius: 24px;" />
+<img src="https://raw.githubusercontent.com/unitbytes/.github/main/assets/unitbytes-logo.png" width="120" height="120" alt="UnitBytes Logo" style="border-radius: 24px;" />
 
 # ⚡ UnitBytes
 ### Enterprise Web Data Extraction & Intelligence
